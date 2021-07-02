@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\CopyConstructors\bin\Debug\CopyConstructors.exe.config
+C:\Users\Ranieri\Desktop\CopyConstructors\bin\Debug\CopyConstructors.exe
+C:\Users\Ranieri\Desktop\CopyConstructors\bin\Debug\CopyConstructors.pdb
+C:\Users\Ranieri\Desktop\CopyConstructors\obj\Debug\CopyConstructors.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\CopyConstructors\obj\Debug\CopyConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\CopyConstructors\obj\Debug\CopyConstructors.exe
+C:\Users\Ranieri\Desktop\CopyConstructors\obj\Debug\CopyConstructors.pdb

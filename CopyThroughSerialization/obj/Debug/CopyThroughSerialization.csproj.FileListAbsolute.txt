@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\CopyThroughSerialization\bin\Debug\CopyThroughSerialization.exe.config
+C:\Users\Ranieri\Desktop\CopyThroughSerialization\bin\Debug\CopyThroughSerialization.exe
+C:\Users\Ranieri\Desktop\CopyThroughSerialization\bin\Debug\CopyThroughSerialization.pdb
+C:\Users\Ranieri\Desktop\CopyThroughSerialization\obj\Debug\CopyThroughSerialization.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\CopyThroughSerialization\obj\Debug\CopyThroughSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\CopyThroughSerialization\obj\Debug\CopyThroughSerialization.exe
+C:\Users\Ranieri\Desktop\CopyThroughSerialization\obj\Debug\CopyThroughSerialization.pdb

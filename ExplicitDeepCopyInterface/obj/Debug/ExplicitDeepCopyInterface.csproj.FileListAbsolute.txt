@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\ExplicitDeepCopyInterface\bin\Debug\ExplicitDeepCopyInterface.exe.config
+C:\Users\Ranieri\Desktop\ExplicitDeepCopyInterface\bin\Debug\ExplicitDeepCopyInterface.exe
+C:\Users\Ranieri\Desktop\ExplicitDeepCopyInterface\bin\Debug\ExplicitDeepCopyInterface.pdb
+C:\Users\Ranieri\Desktop\ExplicitDeepCopyInterface\obj\Debug\ExplicitDeepCopyInterface.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\ExplicitDeepCopyInterface\obj\Debug\ExplicitDeepCopyInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\ExplicitDeepCopyInterface\obj\Debug\ExplicitDeepCopyInterface.exe
+C:\Users\Ranieri\Desktop\ExplicitDeepCopyInterface\obj\Debug\ExplicitDeepCopyInterface.pdb

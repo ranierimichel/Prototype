@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\PrototypeInheritance\bin\Debug\PrototypeInheritance.exe.config
+C:\Users\Ranieri\Desktop\PrototypeInheritance\bin\Debug\PrototypeInheritance.exe
+C:\Users\Ranieri\Desktop\PrototypeInheritance\bin\Debug\PrototypeInheritance.pdb
+C:\Users\Ranieri\Desktop\PrototypeInheritance\obj\Debug\PrototypeInheritance.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\PrototypeInheritance\obj\Debug\PrototypeInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\PrototypeInheritance\obj\Debug\PrototypeInheritance.exe
+C:\Users\Ranieri\Desktop\PrototypeInheritance\obj\Debug\PrototypeInheritance.pdb

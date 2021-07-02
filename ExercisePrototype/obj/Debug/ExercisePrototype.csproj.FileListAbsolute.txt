@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\ExercisePrototype\bin\Debug\ExercisePrototype.exe.config
+C:\Users\Ranieri\Desktop\ExercisePrototype\bin\Debug\ExercisePrototype.exe
+C:\Users\Ranieri\Desktop\ExercisePrototype\bin\Debug\ExercisePrototype.pdb
+C:\Users\Ranieri\Desktop\ExercisePrototype\obj\Debug\ExercisePrototype.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\ExercisePrototype\obj\Debug\ExercisePrototype.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\ExercisePrototype\obj\Debug\ExercisePrototype.exe
+C:\Users\Ranieri\Desktop\ExercisePrototype\obj\Debug\ExercisePrototype.pdb
